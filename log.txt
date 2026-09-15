@@ -1,0 +1,29 @@
+commit 5e1215774209458d818d7025af254c5cfdd215ee
+Author: SohWeiYu-School <2603216@sit.singaporetech.edu.sg>
+Date:   Wed Sep 16 00:15:36 2026 +0800
+
+    added dockerfile
+
+commit d90d9ac17d522d8c193bca95eb513208fa39c11d
+Author: SohWeiYu-School <2603216@sit.singaporetech.edu.sg>
+Date:   Wed Sep 16 00:08:04 2026 +0800
+
+    implemented print statement after quitting and fintune other logisc
+
+commit d95a1d860d2667dd420e8af92deb813f28721e84
+Author: SohWeiYu-School <2603216@sit.singaporetech.edu.sg>
+Date:   Tue Sep 15 23:54:43 2026 +0800
+
+    implemented while loop and if else statement for logic
+
+commit 224596d302bed701d863d82e581498cc04a60662
+Author: SohWeiYu-School <2603216@sit.singaporetech.edu.sg>
+Date:   Tue Sep 15 23:54:10 2026 +0800
+
+    define required variables
+
+commit 55ad57fb1f5064e1744dc5d13b47fe971ed7df01
+Author: SohWeiYu-School <2603216@sit.singaporetech.edu.sg>
+Date:   Tue Sep 15 23:46:52 2026 +0800
+
+    first commit
